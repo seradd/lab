@@ -1,6 +1,5 @@
 <p align="center">
 
-<h3 align="center">HOME TASK</h3>
 
 
 <!-- TABLE OF CONTENTS -->
